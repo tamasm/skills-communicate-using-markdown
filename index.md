@@ -6,3 +6,6 @@ _No connection_
 ```python
 print("Hello World.")
 ```
+- [x] Turn on github pages
+- [ ] outline my portfolio
+- [ ] intoduce myself to the world
